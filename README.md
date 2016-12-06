@@ -5,20 +5,6 @@
 If you have pip, use it to install the EB CLI.
 
     $ pip install --user --upgrade awsebcli
-    
-#### Add the local install location to your OS's path variable.
-
-Linux
-
-    $ export PATH=~/.local/bin:$PATH
-    
-OS-X
-
-    $ export PATH=~/Library/Python/3.4/bin:$PATH
-    
-Windows
-
-    Add %USERPROFILE%\AppData\Roaming\Python\Scripts to your PATH variable. Search for Edit environment variables for your account in the Start menu.
 
 If you don't have pip, follow the instructions here.
 
