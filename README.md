@@ -71,7 +71,7 @@ Select a keypair.
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb3-setenv.html to see how to set environment variables
 
 1. AGENT_KEY=agent_key
-2. AWS_SERVER_LABEL= (0 or 1, 0 to use accountId_instanceId, 1 to use default server hostname)
+2. AWS_SERVER_LABEL=0
 
 #### Deploy Halo AWS Beanstalk
 
