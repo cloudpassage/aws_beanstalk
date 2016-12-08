@@ -87,3 +87,9 @@ INFO: Environment health has transitioned from Ok to Info. Application update in
 INFO: New application version was deployed to running EC2 instances.
 INFO: Environment update completed successfully.
 ```
+
+<!---
+
+#CPTAGS:community-supported archive
+
+-->
