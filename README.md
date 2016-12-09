@@ -91,5 +91,6 @@ INFO: Environment update completed successfully.
 <!---
 
 #CPTAGS:community-supported archive
+#TBICON:images/partner-supported.png
 
 -->
