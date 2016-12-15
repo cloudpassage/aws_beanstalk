@@ -90,7 +90,7 @@ INFO: Environment update completed successfully.
 
 <!---
 
-#CPTAGS:community-supported archive
+#CPTAGS:community-supported deployment
 #TBICON:images/partner-supported.png
 
 -->
